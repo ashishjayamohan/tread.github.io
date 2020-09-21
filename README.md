@@ -1,4 +1,4 @@
-# tread.github.io
+# https://ashishjayamohan.github.io/tread.web/
 A simple website for the Tread project, the Python data science package
 
 ## About Tread
